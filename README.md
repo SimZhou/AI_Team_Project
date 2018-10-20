@@ -72,4 +72,4 @@ to be added...
 
 ## Useful Links
 [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br>
-One key finding: Github Markdown allows multiple selecting & multi-cursor editing！！！ 
+One key finding: Github Markdown allows multiple selecting & multi-cursor editing！！！ (just like sublime text)
