@@ -58,16 +58,22 @@ to be added...
     >proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these arrays values of each character, alphabet value into alphabet array, so on. Then when the program is checking a word, compare the character with the elements of the arrays to know the character's data types. 
                                                            
 6. Summary of Steven's alternative method on identifying which characters need to change : <br> 
-    &emsp;  - Have each word (instead of character) assigned different values <br> 
-    &emsp;  - put part of the values into arrays <br> 
-    &emsp;  - Let program learn the patterns <br> 
+        - Have each word (instead of character) assigned different values <br> 
+        - put part of the values into arrays <br> 
+        - Let program learn the patterns <br> 
                                  
 7. **Jobs of this week:** <br>
-    &emsp;  - William: Build the vocabulary with [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv), exactly like point 3 above <br>
-    &emsp;  - Steven: Find a baseline model for the task of point 4 above <br>
-    &emsp;  - Tianyi: Pending <br>
-    &emsp;  - Simon: Ready to help when necessary, upload files needed onto github <br>
-
+        - William: Build the vocabulary with [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv) using python, exactly like point 3 above <br>
+        - Steven: Find a baseline model for the task of point 4 above <br>
+        - Tianyi: Pending <br>
+        - Simon: Ready to help when necessary, upload files needed onto github <br>
+    > Tips for William
+    > 1. reading in all texts in 'before' column from the file. For reading operations, try [csv](https://docs.python.org/3.6/library/csv.html) or [pandas.read_csv](https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/)
+    > 2. spliting all characters (space should be as well regarded as a char)
+    > 3. removing duplications, try "set(list)"
+    > 4. assign for each distinct char in the set, a vector, with all 0s except one place (as discussed)
+    > 5. write the vocabulary along with their vectors, into a file with format as discussed. 
+    > <br>—— by Simon
 
 
 ## Useful Links
