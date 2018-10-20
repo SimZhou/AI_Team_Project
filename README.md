@@ -63,3 +63,8 @@ to be added...
     Steven: Find a baseline model for the task of point 4 above <br>
     Tianyi: Pending <br>
     Simon: Ready to help when necessary, upload files needed onto github <br>
+
+
+
+## Useful Links
+[Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
