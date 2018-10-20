@@ -51,7 +51,7 @@ to be added...
     | 2 | 0 | 0 | 0 | 0 | 0 | 1 |
 
     Each character is assigned values
-   > Possible Alternative way: Using the ASCII code for to give each characters values <br> 
+   > Possible Alternative way: Using the ASCII code for to give each characters values —— by Steven <br> 
 
 5. Figuring out if a character is a number or a text or any other data types. <br> 
     >proposal #1 -> giving datas that needs to be changed (like numbers, dates, etc) a pattern in their values.  
