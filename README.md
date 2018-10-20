@@ -64,9 +64,10 @@ to be added...
                                  
 7. **Jobs of this week:** <br>
         - William: Build the vocabulary with [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv), exactly like point 3 above <br>
-- [ ] reading in all texts
-- [ ] spliting all characters (space should be as well regarded as a char)
-- [ ] removing duplications
+> reading in all texts
+> spliting all characters (space should be as well regarded as a char)
+> removing duplications 
+
         - Steven: Find a baseline model for the task of point 4 above <br>
         - Tianyi: Pending <br>
         - Simon: Ready to help when necessary, upload files needed onto github <br>
