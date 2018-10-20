@@ -33,7 +33,8 @@ to be added...
 1. **Temporary goal:** <br>
    To increase the accuracy in the test data provided in kaggle's english text normalization competition (en_test_2.csv). <br> 
    The current accuracy of said data set is roughly 92%: 
-   ![Uploaded the testset with 'after' column exactly identical to 'before' column](https://github.com/astro1boy/AI_Team_Project/blob/master/Scores/Round%200.png?raw=true)<br>
+   ![Round 0](https://github.com/astro1boy/AI_Team_Project/blob/master/Scores/Round%200.png?raw=true)<br>
+   *(This result is achieved by uploading the testset with 'after' column exactly identical to 'before' column)*
 2. Data types that we want to focus to change for now : Integers and date. So if the data is '2', change it to 'two'. <br> 
 3. One proposed method to identify whether character or set of characters needs to be changed: <br>
     > 1. Create a vocabulary <br> 
