@@ -72,7 +72,7 @@ to be added...
     > 2. spliting all characters (space should be as well regarded as a char), try list(string)
     > 3. removing duplications, try "set(list)"
     > 4. assign for each distinct char in the set, a vector, with all 0s except one place (as discussed).
-    > 5. write the vocabulary along with their vectors, into a file with format as discussed. Try Google. 
+    > 5. write the vocabulary along with their vectors, into a file with format as discussed. You can find the answer either by googling or checking the python documentation. 
     > <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; —— by Simon
 
 
