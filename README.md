@@ -53,9 +53,13 @@ to be added...
     >proposal #1 -> giving datas that needs to be changed (like numbers, dates, etc) a pattern in their values.  
     >proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these arrays values of each character, alphabet value into alphabet array, so on. Then when the program is checking a word, compare the character with the elements of the arrays to know the character's data types. 
                                                            
-6. Summary of Steven's alternative method on identifying which characters need to change :</br> 
-                               &emsp;   - Have each word(not character) assigned different values</br> 
-                               &emsp;   - put part of the values into arrays</br> 
-                               &emsp;   - Let program learn the patterns</br> 
+6. Summary of Steven's alternative method on identifying which characters need to change : <br> 
+         &emsp;   - Have each word (instead of character) assigned different values <br> 
+         &emsp;   - put part of the values into arrays <br> 
+         &emsp;   - Let program learn the patterns <br> 
                                  
-
+7. **Jobs of this week:** <br>
+    William: Build the vocabulary with training set, exactly like point 3 above <br>
+    Steven: Find a baseline model for the task of point 5 above <br>
+    Tianyi: Pending <br>
+    Simon: Ready to help when necessary, upload files needed onto github <br>
