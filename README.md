@@ -44,9 +44,8 @@ to be added...
     | . | 0 | 0 | 0 | 1 | 0 | 0 |     
     | * | 0 | 0 | 0 | 0 | 1 | 0 |     
     | 2 | 0 | 0 | 0 | 0 | 0 | 1 |
-        
-    Each character is assigned values <br><br> 
 
+    Each character is assigned values
    > Possible Alternative way: Using the ASCII code for to give each characters values <br> 
 
 5. Figuring out if a character is a number or a text or any other data types. <br> 
