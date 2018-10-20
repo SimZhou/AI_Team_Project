@@ -62,7 +62,7 @@ to be added...
     &emsp;  - Let program learn the patterns <br> 
                                  
 7. **Jobs of this week:** <br>
-    &emsp;  - William: Build the vocabulary with training set, exactly like point 3 above <br>
+    &emsp;  - William: Build the vocabulary with [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv), exactly like point 3 above <br>
     &emsp;  - Steven: Find a baseline model for the task of point 4 above <br>
     &emsp;  - Tianyi: Pending <br>
     &emsp;  - Simon: Ready to help when necessary, upload files needed onto github <br>
