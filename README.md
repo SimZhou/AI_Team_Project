@@ -27,24 +27,31 @@ to be added...
 ## 2018.10.20 Minutes of Meeting
 1. **Temporary goal:** <br>
    To increase the accuracy in the test data provided in kaggle's english text normalization competition (en_test_2.csv). <br> 
-   The current accuracy of said data set is roughly 92%. <br> 
+   The current accuracy of said data set is roughly 92%. <br>
 2. Data types that we want to focus to change for now : Integers and date. So if the data is '2', change it to 'two'. <br> 
-3. One proposed method to identify whether character or set of characters needs to be changed:
-  - Create a vocabulary <br> 
-  - Assign simple distinct values to each character in the vocabulary in order to identify each character </br> 
-                                        EXAMPLE : a b c . * 2 <br> 
-                                        a -> 1 0 0 0 0 0 <br> 
-                                        b -> 0 1 0 0 0 0 <br> 
-                                        c -> 0 0 1 0 0 0 <br> 
-                                        . -> 0 0 0 1 0 0 <br> 
-                                        * -> 0 0 0 0 1 0 <br> 
-                                        2 -> 0 0 0 0 0 1 <br> 
-                                        each character is assigned values</br> </br> 
-                                 - Possible Alternative way: Using the ASCII code for to give each characters values</br> 
-                                 - Figuring out if a character is a number or a text or any other data types.</br> 
-                                         &emsp;  - proposal #1 -> giving datas that needs to be changed(like numbers, dates, etc)
-                                                           a pattern in their values.</br> 
-                                         &emsp;  - proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these
+3. One proposed method to identify whether character or set of characters needs to be changed: <br>
+    > 1. Create a vocabulary <br> 
+    > 2. Assign simple distinct values to each character in the vocabulary in order to identify each character <br> 
+    
+    **EXAMPLE:** <br>
+         for a vocab containing keys: **a b c . * 2** <br>
+
+    | 6 | 6 |   |   |   |   |   |
+    | - |:-:|:-:|:-:|:-:|:-:|:-:|
+    | a | 1 | 0 | 0 | 0 | 0 | 0 |
+    | b | 0 | 1 | 0 | 0 | 0 | 0 |
+    | c | 0 | 0 | 1 | 0 | 0 | 0 | 
+    | . | 0 | 0 | 0 | 1 | 0 | 0 |     
+    | * | 0 | 0 | 0 | 0 | 1 | 0 |     
+    | 2 | 0 | 0 | 0 | 0 | 0 | 1 |
+        
+    Each character is assigned values <br><br> 
+
+   - Possible Alternative way: Using the ASCII code for to give each characters values <br> 
+   - Figuring out if a character is a number or a text or any other data types. <br> 
+   &emsp;  - proposal #1 -> giving datas that needs to be changed(like numbers, dates, etc)
+                            a pattern in their values. <br> 
+   &emsp;  - proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these
                                                            arrays values of each character, alphabet value into alphabet array, so on.
                                                            Then when the program is checking a word, compare the character with the
                                                            elements of the arrays to know the character's data types. </br> 
