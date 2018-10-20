@@ -34,7 +34,7 @@ to be added...
     > 2. Assign simple distinct values to each character in the vocabulary in order to identify each character <br> 
     
     **EXAMPLE:** <br>
-         for a vocab containing keys: **a b c . * 2** <br>
+    For a vocab containing 6 keys: **a b c . * 2** <br>
 
     | 6 | 6 |   |   |   |   |   |
     | - |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -47,15 +47,13 @@ to be added...
         
     Each character is assigned values <br><br> 
 
-   - Possible Alternative way: Using the ASCII code for to give each characters values <br> 
-   - Figuring out if a character is a number or a text or any other data types. <br> 
-   &emsp;  - proposal #1 -> giving datas that needs to be changed(like numbers, dates, etc)
-                            a pattern in their values. <br> 
-   &emsp;  - proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these
-                                                           arrays values of each character, alphabet value into alphabet array, so on.
-                                                           Then when the program is checking a word, compare the character with the
-                                                           elements of the arrays to know the character's data types. </br> 
-4. Summary of Steven's alternative method on identifying which characters need to change :</br> 
+   > Possible Alternative way: Using the ASCII code for to give each characters values <br> 
+
+5. Figuring out if a character is a number or a text or any other data types. <br> 
+>proposal #1 -> giving datas that needs to be changed (like numbers, dates, etc) a pattern in their values.  
+>proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these arrays values of each character, alphabet value into alphabet array, so on. Then when the program is checking a word, compare the character with the elements of the arrays to know the character's data types. 
+                                                           
+6. Summary of Steven's alternative method on identifying which characters need to change :</br> 
                                &emsp;   - Have each word(not character) assigned different values</br> 
                                &emsp;   - put part of the values into arrays</br> 
                                &emsp;   - Let program learn the patterns</br> 
