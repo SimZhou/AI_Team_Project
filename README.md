@@ -1,5 +1,6 @@
 # Genesis AI/NLP Team Project
-For Kaggle competition: https://www.kaggle.com/c/text-normalization-challenge-english-language/data <br>
+In this project we do Kaggle competition: <br>
+[Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-english-language/data) <br>
 Download the datasets: <br>
 [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv), <br>
 [en_test_2.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_test_2.csv), <br>
