@@ -10,7 +10,7 @@ to be added...
 to be added...
 
 
-
+# Meeting Proceedings
 ## 2018.10.14 Minutes of Meeting
 1. Decide to do competiion on Kaggle: https://www.kaggle.com/c/text-normalization-challenge-english-language/data
 2. Roles: </br>
