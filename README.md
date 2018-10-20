@@ -50,8 +50,8 @@ to be added...
    > Possible Alternative way: Using the ASCII code for to give each characters values <br> 
 
 5. Figuring out if a character is a number or a text or any other data types. <br> 
->proposal #1 -> giving datas that needs to be changed (like numbers, dates, etc) a pattern in their values.  
->proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these arrays values of each character, alphabet value into alphabet array, so on. Then when the program is checking a word, compare the character with the elements of the arrays to know the character's data types. 
+    >proposal #1 -> giving datas that needs to be changed (like numbers, dates, etc) a pattern in their values.  
+    >proposal #2 -> Make three arrays : alphabets, numbers and punctuations. Then input in these arrays values of each character, alphabet value into alphabet array, so on. Then when the program is checking a word, compare the character with the elements of the arrays to know the character's data types. 
                                                            
 6. Summary of Steven's alternative method on identifying which characters need to change :</br> 
                                &emsp;   - Have each word(not character) assigned different values</br> 
