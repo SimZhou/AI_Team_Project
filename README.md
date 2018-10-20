@@ -72,8 +72,8 @@ to be added...
     > 2. spliting all characters (space should be as well regarded as a char)
     > 3. removing duplications, try "set(list)"
     > 4. assign for each distinct char in the set, a vector, with all 0s except one place (as discussed)
-    ? 5. write the vocabulary along with their vectors, into a file
-    > —— by Simon
+    > 5. write the vocabulary along with their vectors, into a file. Format as discussed. 
+    > <br>—— by Simon
 
 
 ## Useful Links
