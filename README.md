@@ -63,15 +63,17 @@ to be added...
         - Let program learn the patterns <br> 
                                  
 7. **Jobs of this week:** <br>
-        - William: Build the vocabulary with [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv), exactly like point 3 above <br>
-> reading in all texts
-> spliting all characters (space should be as well regarded as a char)
-> removing duplications 
-
+        - William: Build the vocabulary with [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv) using python, exactly like point 3 above <br>
         - Steven: Find a baseline model for the task of point 4 above <br>
         - Tianyi: Pending <br>
         - Simon: Ready to help when necessary, upload files needed onto github <br>
-
+    > Tips for William
+    > 1. reading in all texts in 'before' column from the file. For reading operations, try [csv](https://docs.python.org/3.6/library/csv.html) or [pandas.read_csv](https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/)
+    > 2. spliting all characters (space should be as well regarded as a char)
+    > 3. removing duplications, try "set(list)"
+    > 4. assign for each distinct char in the set, a vector, with all 0s except one place (as discussed)
+    ? 5. write the vocabulary along with their vectors, into a file
+    > —— by Simon
 
 
 ## Useful Links
