@@ -69,12 +69,11 @@ to be added...
         - Simon: Ready to help when necessary, upload files needed onto github <br>
     > Tips for William
     > 1. reading in all texts in 'before' column from the file. For reading operations, try [csv](https://docs.python.org/3.6/library/csv.html) or [pandas.read_csv](https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/)
-    > 2. spliting all characters (space should be as well regarded as a char)
+    > 2. spliting all characters (space should be as well regarded as a char), try list(string)
     > 3. removing duplications, try "set(list)"
     > 4. assign for each distinct char in the set, a vector, with all 0s except one place (as discussed)
     > 5. write the vocabulary along with their vectors, into a file with format as discussed. 
-    
-    > by Simon
+    > <br> ———— by Simon
 
 
 ## Useful Links
