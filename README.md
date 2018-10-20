@@ -73,7 +73,8 @@ to be added...
     > 3. removing duplications, try "set(list)"
     > 4. assign for each distinct char in the set, a vector, with all 0s except one place (as discussed)
     > 5. write the vocabulary along with their vectors, into a file with format as discussed. 
-    > <br>—— by Simon
+    
+    > by Simon
 
 
 ## Useful Links
