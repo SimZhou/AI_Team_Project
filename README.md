@@ -85,7 +85,8 @@ Attendence: Simon, William, Steven, Kiven (New Member, Welcome!)
 1. Decided to tackle the project with Machine Learning. <br>
 2. Steven will present his Model next time. <br>
 3. Individual programming using python and pandas packages. Trying to create dictionary. <br>
-4. We found a lot of special characters included in the training set, like chinese chars, japaness chars, strange chars, etc. And they mainly exists in the "VERBATIM" class. When the VERBATIM characters are removed, the number of special characters shrinked from 3000+ to 112: ![pic]() <br> It is decided that the dictionary will be built without the VERBATIM class characters and every character not included in the dictionary will be treated as special character by the program and be given special values.
+4. We found a lot of special characters included in the training set, like chinese chars, japaness chars, strange chars, etc. And they mainly exists in the "VERBATIM" class. When the VERBATIM characters are removed, the number of special characters shrinked from 3000+ to 112: ![pic](https://github.com/astro1boy/AI_Team_Project/blob/master/_cachepic/removing_VERBATIM.png) <br> 
+It is decided that the dictionary will be built without the VERBATIM class characters and every character not included in the dictionary will be treated as special character by the program and be given special values.
 6. From the last meeting it was decided that each character are going to be given values such as 00010000 or 10000000, <br>
 Simon suggested that each word in the test data is given a matrix of said values. For example, Apple would be : <br>
         | 1 | 0 | 0 | 0 | 0 | 0 |<br>
@@ -97,21 +98,15 @@ Simon suggested that each word in the test data is given a matrix of said values
 And each words/cell in the test data will have matrix like this then said matrices will later be used for Machine learning so that the computer can recognize its pattern.<br>
 
 7. **Progresses of this week:** <br>
-  a. 
-  b. 
+  a. Dictionary built, see file: dict01 
+    > 1. the begining of first line is blank, which means the vector value to <space>. 
+    > 2. there is a char called '<UNKNOWN_CHAR>', which all chars not appeared should go to this vector value. 
 
 8. **Tasks of this week:** <br>
         - Kiven: Get the one-hot matrix for each cell in 'before' and 'after' column using the dictionary provided, as well its label(class).
-        - William: Try <br>
+        - William: a. Try to post some descriptions/introductions (approximately 200 words) of what is the competition doing, how are we doing(preliminary), why are we doing like this(you can try google some answers). b. Try running the python scripts written for this weeks' task (one-hot & dataViewing), so to have an understanding of python & our competition. c. Just for information, William can try to learn some basics of ML if he wanted to, [Machine Learning on Coursera for FREE!](https://www.coursera.org/learn/machine-learning) could be a good starting poing <br>
         - Steven: Run the XGBoost model, which needs no dictionary, and see the accuracy <br>
-        - Simon: Ready to help when necessary, upload findings onto github <br>
-    > Tips for William
-    > 1. reading in all texts in 'before' column from the file. For reading operations, try [csv](https://docs.python.org/3.6/library/csv.html) or [pandas.read_csv](https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/)
-    > 2. spliting all characters (space should be as well regarded as a char), try list(string)
-    > 3. removing duplications, try "set(list)"
-    > 4. assign for each distinct char in the set, a vector, with all 0s except one place (as discussed).
-    > 5. write the vocabulary along with their vectors, into a file with format as discussed. You can find the answer either by googling or checking the python documentation. 
-    > <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; —— by Simon
+        - Simon: Ready to help when necessary <br>
 
 ## Useful Links
 [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br>
