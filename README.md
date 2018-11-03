@@ -81,3 +81,12 @@ to be added...
 ## Useful Links
 [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br>
 One key finding: Github Markdown allows multiple selecting & multi-cursor editing！！！ (just like sublime text)
+
+
+
+
+## 2018.11.02 Minutes of Meeting
+1. New member joins the meeting : Kiven. <br>
+2. Decided to tackle the project with Machine Learning. <br>
+3. Steven will present his Model next week. <br>
+4. Individual programming using python and pandas packages. Trying to create dictionary. <br>
