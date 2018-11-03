@@ -90,7 +90,7 @@ One key finding: Github Markdown allows multiple selecting & multi-cursor editin
 2. Decided to tackle the project with Machine Learning. <br>
 3. Steven will present his Model next week. <br>
 4. Individual programming using python and pandas packages. Trying to create dictionary. <br>
-5. Found out that the dictionary prints out non-english characters and that the data set actually have <br> a VERBATIM type that spells out non-english characters.
+5. Found out that the dictionary prints out non-english characters and that the data set actually have <br> a VERBATIM type that spells out non-english characters. <br>The VERBATIM characters made up of most of the special characters in the test data, when the VERBATIM characters are removed, the number of special characters shrinked from 3000+ to 112.<br> It is decided that the dictionary will be built without the VERBATIM class characters and every character not included in the dictionary will be treated as special character by the program and be given special values.
 6. From the last meeting it was decided that each character are going to be given values such as 00010000 or 10000000, <br>
 Simon suggested that each word in the test data is given a matrix of said values. For example, Apple would be : <br>
         | 1 | 0 | 0 | 0 | 0 | 0 |<br>
