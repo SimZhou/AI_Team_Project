@@ -98,7 +98,7 @@ Simon suggested that each word in the test data is given a matrix of said values
 And each words/cell in the test data will have matrix like this then said matrices will later be used for Machine learning so that the computer can recognize its pattern.<br>
 
 7. **Progresses of this week:** <br>
-  > a. Dictionary built, see file: dict01 <br>
+  > a. Dictionary built, see file: dict01 *(Good to have a Notepad++ to directly open it)*<br>
   &emsp;   1. the begining of first line is blank, which means the vector value to <space>. <br>
   &emsp;   2. there is a char called '<UNKNOWN_CHAR>', which all chars not appeared should go to this vector value. <br>
   > b. one-hot.py -> codes to get dict01<br>
