@@ -80,7 +80,7 @@ Attendence: Simon, William, Steven, Tianyi
     > <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; —— by Simon
 
 
-## 2018.11.02 Minutes of Meeting
+## 2018.11.03 Minutes of Meeting
 Attendence: Simon, William, Steven, Kiven (New Member, Welcome!)
 1. Decided to tackle the project with Machine Learning. <br>
 2. Steven will present his Model next time. <br>
