@@ -103,7 +103,7 @@ And each words/cell in the test data will have matrix like this then said matric
     > 2. there is a char called '<UNKNOWN_CHAR>', which all chars not appeared should go to this vector value. 
 
 8. **Tasks of this week:** <br>
-        - Kiven: Get the one-hot matrix for each cell in 'before' and 'after' column using the dictionary provided, as well its label(class).
+        - Kiven: Get the one-hot matrix for each cell in 'before' and 'after' column using the dictionary provided, as well its label(class). <br>
         - William: a. Try to post some descriptions/introductions (approximately 200 words) of what is the competition doing, how are we doing(preliminary), why are we doing like this(you can try google some answers). b. Try running the python scripts written for this weeks' task (one-hot & dataViewing), so to have an understanding of python & our competition. c. Just for information, William can try to learn some basics of ML if he wanted to, [Machine Learning on Coursera for FREE!](https://www.coursera.org/learn/machine-learning) could be a good starting poing <br>
         - Steven: Run the XGBoost model, which needs no dictionary, and see the accuracy <br>
         - Simon: Ready to help when necessary <br>
