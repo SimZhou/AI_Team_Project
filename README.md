@@ -17,6 +17,7 @@ to be added...
 
 # Meeting Proceedings
 ## 2018.10.14 Minutes of Meeting
+Attendence: Simon, William, Steven, Tianyi
 1. Decide to do competiion on Kaggle: https://www.kaggle.com/c/text-normalization-challenge-english-language/data
 2. Roles: </br>
   William: Documentation on Github / Minutes of Meeting </br>
@@ -30,6 +31,7 @@ to be added...
 
 
 ## 2018.10.20 Minutes of Meeting
+Attendence: Simon, William, Steven, Tianyi
 1. **Temporary goal:** <br>
    To increase the accuracy in the test data provided in kaggle's english text normalization competition (en_test_2.csv). <br> 
    The current accuracy of said data set is roughly 92%: 
@@ -78,17 +80,10 @@ to be added...
     > <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; —— by Simon
 
 
-## Useful Links
-[Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br>
-One key finding: Github Markdown allows multiple selecting & multi-cursor editing！！！ (just like sublime text)
-
-
-
-
 ## 2018.11.02 Minutes of Meeting
-1. New member joins the meeting : Kiven. <br>
+Attendence: Simon, William, Steven, Kiven (New Member, Welcome!) <br>
 2. Decided to tackle the project with Machine Learning. <br>
-3. Steven will present his Model next week. <br>
+3. Steven will present his Model next time. <br>
 4. Individual programming using python and pandas packages. Trying to create dictionary. <br>
 5. Found out that the dictionary prints out non-english characters and that the data set actually have <br> a VERBATIM type that spells out non-english characters. <br>The VERBATIM characters made up of most of the special characters in the test data, when the VERBATIM characters are removed, the number of special characters shrinked from 3000+ to 112.<br> It is decided that the dictionary will be built without the VERBATIM class characters and every character not included in the dictionary will be treated as special character by the program and be given special values.
 6. From the last meeting it was decided that each character are going to be given values such as 00010000 or 10000000, <br>
@@ -100,3 +95,11 @@ Simon suggested that each word in the test data is given a matrix of said values
         | 0 | 0 | 0 | 0 | 1 | 0 |     
         | 0 | 0 | 0 | 0 | 0 | 1 |<br>         Matrix for Apple<br>
 And each words/sentence/characters in the test data will have matrix like this then said matrices will later be used for Machine learning so that the computer can recognize its pattern.<br> Kiven is assigned a task to research this.
+
+
+
+## Useful Links
+[Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br>
+One key finding: Github Markdown allows multiple selecting & multi-cursor editing！！！ (just like sublime text)
+
+
