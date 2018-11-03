@@ -93,10 +93,10 @@ One key finding: Github Markdown allows multiple selecting & multi-cursor editin
 5. Found out that the dictionary prints out non-english characters and that the data set actually have <br> a VERBATIM type that spells out non-english characters.
 6. From the last meeting it was decided that each character are going to be given values such as 00010000 or 10000000, <br>
 Simon suggested that each word in the test data is given a matrix of said values. For example, Apple would be : <br>
-        | 1 | 0 | 0 | 0 | 0 | 0 |
-        | 0 | 1 | 0 | 0 | 0 | 0 |
-        | 0 | 0 | 1 | 0 | 0 | 0 | 
-        | 0 | 0 | 0 | 1 | 0 | 0 |     
-        | 0 | 0 | 0 | 0 | 1 | 0 |     
-        | 0 | 0 | 0 | 0 | 0 | 1 |         Matrix for Apple<br>
+        | 1 | 0 | 0 | 0 | 0 | 0 |<br>
+        | 0 | 1 | 0 | 0 | 0 | 0 |<br>
+        | 0 | 0 | 1 | 0 | 0 | 0 |<br>
+        | 0 | 0 | 0 | 1 | 0 | 0 |<br>
+        | 0 | 0 | 0 | 0 | 1 | 0 |<br>     
+        | 0 | 0 | 0 | 0 | 0 | 1 |<br>         Matrix for Apple<br>
  And then said matrices will eb later used for Machine learning so that the computer can recognize its pattern.<br> Kiven is assigned a task to research this.
