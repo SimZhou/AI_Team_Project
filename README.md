@@ -97,6 +97,6 @@ Simon suggested that each word in the test data is given a matrix of said values
         | 0 | 1 | 0 | 0 | 0 | 0 |<br>
         | 0 | 0 | 1 | 0 | 0 | 0 |<br>
         | 0 | 0 | 0 | 1 | 0 | 0 |<br>
-        | 0 | 0 | 0 | 0 | 1 | 0 |<br>     
+        | 0 | 0 | 0 | 0 | 1 | 0 |     
         | 0 | 0 | 0 | 0 | 0 | 1 |<br>         Matrix for Apple<br>
- And then said matrices will eb later used for Machine learning so that the computer can recognize its pattern.<br> Kiven is assigned a task to research this.
+ And then said matrices will later be used for Machine learning so that the computer can recognize its pattern.<br> Kiven is assigned a task to research this.
