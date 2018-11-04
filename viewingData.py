@@ -27,7 +27,7 @@ data_train_MONEY = data_train[data_train['class'] == 'MONEY']
 data_train_DECIMAL = data_train[data_train['class'] == 'DECIMAL']
 data_train_PLAIN = data_train[data_train['class'] == 'PLAIN']
 
-# Don't run following lines at a time!!!
+# Don't run following lines at a time, if you don't want your system crash!!!
 data_train_MEASURE
 data_train_TIME
 data_train_DIGIT
