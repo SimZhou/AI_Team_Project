@@ -17,7 +17,7 @@ to be added...
 
 # Meeting Proceedings
 
-## 2018.11.03 Minutes of Meeting
+## 2018.11.03 Minutes of Meeting (3rd meeting)
 Attendence: Simon, William, Steven, Kiven (New Member, Welcome!)
 1. Decided to tackle the project with Machine Learning. <br>
 2. Steven will present his Model next time. <br>
@@ -51,7 +51,7 @@ And each words/cell in the test data will have matrix like this then said matric
         - **Simon**: Ready to help when necessary <br>
         
 
-## 2018.10.20 Minutes of Meeting
+## 2018.10.20 Minutes of Meeting (2nd meeting)
 Attendence: Simon, William, Steven, Tianyi
 1. **Temporary goal:** <br>
    To increase the accuracy in the test data provided in kaggle's english text normalization competition (en_test_2.csv). <br> 
@@ -101,7 +101,7 @@ Attendence: Simon, William, Steven, Tianyi
     > <br> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; —— by Simon
 
 
-## 2018.10.14 Minutes of Meeting
+## 2018.10.14 Minutes of Meeting (1st meeting)
 Attendence: Simon, William, Steven, Tianyi
 1. Decide to do competiion on Kaggle: https://www.kaggle.com/c/text-normalization-challenge-english-language/data
 2. Roles: </br>
