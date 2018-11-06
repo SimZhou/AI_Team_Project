@@ -144,14 +144,16 @@ if __name__ == "__main__":
 	output = transform(before, cdict)
 	to_write = _to_obj_ndarray(output)
 	del output, data_train, data_02  # in case the memory dries up
-	_save_to_chunks("data/before", to_write)
+	# _save_to_chunks("data/before", to_write)
+	np.save("data/before", to_write)
 	del to_write
 
 	print("\nTransforming and writing 'after' to file")
 	output = transform(after, cdict)
 	to_write = _to_obj_ndarray(output)
 	del output
-	_save_to_chunks("data/after", to_write)
+	#_save_to_chunks("data/after", to_write)
+	np.save("data/after", to_write)
 	print("\n'after' saved")
 	del to_write
 
