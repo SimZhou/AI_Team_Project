@@ -38,7 +38,7 @@ Attendance: Simon, William, Kiven, Tianyi
     a. **William**: <br> 
     - Write some insights about what he heard today (can somehow link to what he is going to write in his EAP course)<br>
     - Describe our training data by making the distribution histograms for each class in our training set (how many needs to be changed, how many doesn't). <br>
-    > Pls check the python script 'viewingData.py' on our github page to see some preliminary data loading operations. --by Simon <br>
+    > Pls check the python script 'viewingData.py' on our github page to see some preliminary data loading operations. And for ploting those histograms, try python lib 'matplotlib'. You could google 'matplotlib histogram examples' to get some existing eg codes for this --by Simon <br>
 
     b. **Tianyi**: <br>
     - Write something on our github page, to introduce our work to someone don't know. The contents to be added should not only contain the descriptions of our competiton, but also something about Machine Learning, NLP stuffs, based on what Tianyi learnt from today's meeting. <br>
