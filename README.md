@@ -50,6 +50,9 @@ Attendance: Simon, William, Kiven, Tianyi
         - b. For each class, do we use machine learning or not (Should somehow based on **William**'s work of data description)
         - c. For each class, decide what kind of model to use.
 
+    d. **Steven**: <br>
+    - Talk about his XGBoost model during next meeting. 
+    
 ## 2018.11.03 Minutes of Meeting (3rd meeting)
 Attendence: Simon, William, Steven, Kiven (New Member, Welcome!)
 1. Decided to tackle the project with Machine Learning. <br>
