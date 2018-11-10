@@ -11,11 +11,18 @@ Download the datasets: <br>
 to be added...
 ### NLP
 to be added...
-### Tensorflow
-to be added...
-
+### Machine Learning & NLP Insights (By William)
+to be added
 
 # Meeting Proceedings
+## 2018.11.10 Miniutes of Meeting (4th)
+Attendance: Simon, William, Kiven, Tianyi
+1. **Progress of this week:** 
+a. 
+
+2. **What we did in this meeting:** 
+
+3. **Tasks of this week:** 
 
 ## 2018.11.03 Minutes of Meeting (3rd meeting)
 Attendence: Simon, William, Steven, Kiven (New Member, Welcome!)
