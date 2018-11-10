@@ -33,7 +33,7 @@ Attendance: Simon, William, Kiven, Tianyi
     
     b. Kiven & Simon discussed a little bit about the model we are going to use in our Kaggle competition. <br>
         
-3. **Tasks of this week:** <br> 
+3. **Tasks of next week:** <br> 
 
     a. **William**: <br> 
     - Write some insights about what he heard today (can somehow link to what he is going to write in his EAP course)<br>
