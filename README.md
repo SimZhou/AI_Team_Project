@@ -7,9 +7,9 @@ Download the datasets: <br>
 [en_sample_submission_2.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_sample_submission_2.csv)
 
 ## Brief Introduction
-### The competition
+### The competition (Tianyi)
 to be added...
-### NLP
+### NLP (Tianyi)
 to be added...
 ### Machine Learning & NLP Insights (By William)
 to be added
@@ -17,12 +17,38 @@ to be added
 # Meeting Proceedings
 ## 2018.11.10 Miniutes of Meeting (4th)
 Attendance: Simon, William, Kiven, Tianyi
-1. **Progress of this week:** 
-a. 
+1. **Progress of this week (Summarization of tasks from last week):** <br>
 
-2. **What we did in this meeting:** 
+    a. **Kiven**: Finished his work of mapping words in training sample into one-hot values, and as well categorizations. However since it is observed that the file is too big for one-hot values (like 15gb or sth), which is too big, he then stored the values with index which has made the file a lot smaller (1.6gb?). <br>
+    
+    b. **William**: Haven't check the code yet, will check during the next week. <br>
+    
+    c. **Steven**: Absent because of a travel to Beijing, will talk about the XGBoost during next meeting. <br>
+    
+    d. **Simon**: Still ready to support. <br>
 
-3. **Tasks of this week:** 
+2. **What we did in this meeting:** <br> 
+
+    a. Kiven & Simon taught William & Tianyi about some general ideas and concepts behind Machine learning, Deep Learning, Neural Networks and their applications on NLP, Image processing, etc. <br>
+    
+    b. Kiven & Simon discussed a little bit about the model we are going to use in our Kaggle competition. <br>
+        
+3. **Tasks of this week:** <br> 
+
+    a. **William**: <br> 
+    - Write some insights about what he heard today (can somehow link to what he is going to write in his EAP course)<br>
+    - Describe our training data by making the distribution histograms for each class in our training set (how many needs to be changed, how many doesn't). <br>
+    > Pls check the python script 'viewingData.py' on our github page to see some preliminary data loading operations. --By Simon <br>
+
+    b. **Tianyi**: <br>
+    - Write something on our github page, to introduce our work to someone don't know. The contents to be added should not only contain the descriptions of our competiton, but also something about Machine Learning, NLP stuffs, based on what Tianyi learnt from today's meeting. <br>
+        
+    c. **Kiven and Simon**: <br> 
+    - Discuss and come up with models with implementation to do our Kaggle challenge <br>
+    - To be specific, they should decide: 
+        - a. Come up with the code implementation of class classification on our training set (Sequence model)
+        - b. Decide for each class, do we use machine learning or not (Should somehow based on **William**'s work of data description)
+        - c. For each class, decide what kind of model to use.
 
 ## 2018.11.03 Minutes of Meeting (3rd meeting)
 Attendence: Simon, William, Steven, Kiven (New Member, Welcome!)
@@ -39,7 +65,7 @@ Simon suggested that each word in the test data is given a matrix of said values
         | 0 | 0 | 0 | 1 | 0 | 0 |<br>
         | 0 | 0 | 0 | 0 | 1 | 0 |     
         | 0 | 0 | 0 | 0 | 0 | 1 |<br>         Matrix for Apple<br>
-And each words/cell in the test data will have matrix like this then said matrices will later be used for Machine learning so that the computer can recognize its pattern.<br>
+And each words/cell in the test data will have matrix like this then said matrices will later be used for Machine learning so that the computer can recognize its pattern. <br>
 
 6. **Progresses of this week:** <br>
   > a. Dictionary built, see file: dict01 *(Try Notepad++ if wants to directly open it)*<br>
