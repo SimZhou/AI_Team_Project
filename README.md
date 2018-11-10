@@ -38,7 +38,7 @@ Attendance: Simon, William, Kiven, Tianyi
     a. **William**: <br> 
     - Write some insights about what he heard today (can somehow link to what he is going to write in his EAP course)<br>
     - Describe our training data by making the distribution histograms for each class in our training set (how many needs to be changed, how many doesn't). <br>
-    > Pls check the python script 'viewingData.py' on our github page to see some preliminary data loading operations. --By Simon <br>
+    > Pls check the python script 'viewingData.py' on our github page to see some preliminary data loading operations. --by Simon <br>
 
     b. **Tianyi**: <br>
     - Write something on our github page, to introduce our work to someone don't know. The contents to be added should not only contain the descriptions of our competiton, but also something about Machine Learning, NLP stuffs, based on what Tianyi learnt from today's meeting. <br>
@@ -46,8 +46,8 @@ Attendance: Simon, William, Kiven, Tianyi
     c. **Kiven and Simon**: <br> 
     - Discuss and come up with models with implementation to do our Kaggle challenge <br>
     - To be specific, they should decide: 
-        - a. Come up with the code implementation of class classification on our training set (Sequence model)
-        - b. Decide for each class, do we use machine learning or not (Should somehow based on **William**'s work of data description)
+        - a. The code implementation of class classification on our training set (Sequence model)
+        - b. For each class, do we use machine learning or not (Should somehow based on **William**'s work of data description)
         - c. For each class, decide what kind of model to use.
 
 ## 2018.11.03 Minutes of Meeting (3rd meeting)
