@@ -15,15 +15,8 @@ to be added...
 ### Main Concept of Machine Learning :
 <br> Building a program that has the ability to train itself and learn patterns from a set of data.<br>
 ### General Formula : 
-<br>y = mx+c. First, a set of random (x,y) values are inputted into the formula to allow the program to calculate the m and c variables. For every mistake the program made, it contributed into the 'loss data', meaning data that are not accurate or downright wrong. The main goal of machine learning is to make the program train itself as to minimize this loss data and increase the program's accuracy in getting the right calculations.
-<br><br><br>
-|      /<br>
-|     /<br>
-|    /<br>
-|   /<br>
-|  /<br>
-| /<br>
-|/________________________
+<br>y = mx+c. First, a set of random (x,y) values are inputted into the formula to allow the program to calculate the m and c variables. For every mistake the program made, it contributed into the 'loss data', meaning data that are not accurate or downright wrong. The main goal of machine learning is to make the program train itself as to minimize this loss data and increase the program's accuracy in getting the right calculations. In graphical terms. we are trying to achieve a best fit line from the set of random datas
+
 # Meeting Proceedings
 ## 2018.11.10 Miniutes of Meeting (4th)
 Attendance: Simon, William, Kiven, Tianyi
