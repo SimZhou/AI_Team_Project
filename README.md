@@ -52,9 +52,9 @@ Attendance: Simon, William, Steven
     
     b. **William**: Post the graph results in github.<br>
     
-    c. **Kiven**:
+    c. **Kiven**: Develop and code the translation form of each classification class to spoken words based on Steven's model. Contact Simon for further details.
     
-    d. **Simon**:
+    d. **Simon**: Develop and code the translation form of each classification class to spoken words based on Steven's model. Train model for each classification. 
     
     e. **Tianyi**: Write introduction section
 
