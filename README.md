@@ -17,7 +17,55 @@ to be added...
 ### General Formula : 
 <br>y = mx+c. First, a set of random (x,y) values are inputted into the formula to allow the program to calculate the m and c variables. For every mistake the program made, it contributed into the 'loss data', meaning data that are not accurate or downright wrong. The main goal of machine learning is to make the program train itself as to minimize this loss data and increase the program's accuracy in getting the right calculations. In graphical terms. we are trying to achieve a best fit line from the set of random datas
 
+## Data Description :
+to be added...
+
+
 # Meeting Proceedings
+## 2018.11.17 Minutes of Meeting (5th meeting)
+Attendance: Simon, William, Steven
+1. **Progress of this week(summarization of tasks from last week)**<br>
+    
+    a. **William**: Finished with the bar graph to count the number of data needed to be changed and how many does not need to be changed.<br>
+    
+    b. **Steven**: Managed to achieve 99.8% accuracy in his model using the train data sets. Uses an open source model with his own program editing.<br>
+    
+    c. **Simon**: Busy with work, will continue task this week<br>
+    
+    d. **Kiven**: Absent from this week's meeting. Went to Shanghai<br>
+    
+    e. **Tianyi**: Still need to finish introduction<br>
+    
+    
+2. **What we did this week**<br>
+    a. See the bar graph William made and analysed just how much data needs to be dealt with. The result is posted in 'Data Description' section above.<br>
+    
+    b. Steven tried to explain his model, XGBoost, but nobody understands therefore he will try again next week.<br>Nevertheless, his model achieved 99.8% accuracy so Steven's model is under consideration to be used.<br>
+    
+    c. Steven's error are unable to differentiate between CARDINAL data type and DIGIT data type. We found that there are difference in translation method in these two data types. For example, the value 405, if DIGIT data type, translation becomes 'four o five', whereas in CARDINAL, the translation becomes 'four hundred and five'. Problem identified.<br>
+    
+    d. DATE data type also produced an error in Steven's model. The DATE data type is translated as though it is a DIGIT data type instead of DATE.
+
+
+3. **Tasks of next week:** <br> 
+    a. **Steven**: Prepare to explain XGBoost next week.<br>
+    
+    b. **William**: Post the graph results in github.<br>
+    
+    c. **Kiven**:
+    
+    d. **Simon**:
+    
+    e. **Tianyi**: Write introduction section
+
+
+
+
+
+
+
+
+
 ## 2018.11.10 Miniutes of Meeting (4th)
 Attendance: Simon, William, Kiven, Tianyi
 1. **Progress of this week (Summarization of tasks from last week):** <br>
