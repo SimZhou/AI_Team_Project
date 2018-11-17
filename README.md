@@ -50,13 +50,13 @@ Attendance: Simon, William, Steven
 3. **Tasks of next week:** <br> 
     a. **Steven**: Prepare to explain XGBoost next week.<br>
     
-    b. **William**: Post the graph results in github.<br>
+    b. **William**: Post the graph results in github. Make further graph programming in python<br>
     
-    c. **Kiven**: Develop and code the translation form of each classification class to spoken words based on Steven's model. Contact Simon for further details.
+    c. **Kiven**: Develop and code the translation form of each classification class to spoken words based on Steven's model. Contact Simon for further details.<br>
     
-    d. **Simon**: Develop and code the translation form of each classification class to spoken words based on Steven's model. Train model for each classification. 
+    d. **Simon**: Develop and code the translation form of each classification class to spoken words based on Steven's model. Train model for each classification. <br>
     
-    e. **Tianyi**: Write introduction section
+    e. **Tianyi**: Write introduction section<br>
 
 
 
