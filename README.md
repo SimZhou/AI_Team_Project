@@ -44,7 +44,7 @@ Attendance: Simon, William, Steven
     
     c. Steven's error are unable to differentiate between CARDINAL data type and DIGIT data type. We found that there are difference in translation method in these two data types. For example, the value 405, if DIGIT data type, translation becomes 'four o five', whereas in CARDINAL, the translation becomes 'four hundred and five'. Problem identified.<br>
     
-    d. DATE data type also produced an error in Steven's model. The DATE data type is translated as though it is a DIGIT data type instead of DATE.
+    d. DATE data type also produced an error in Steven's model. The DATE data type is translated as though it is a DIGIT data type instead of DATE.<br>
 
 
 3. **Tasks of next week:** <br> 
