@@ -1,6 +1,7 @@
 # Genesis AI/NLP Team Project
 In this project we do Kaggle competition: <br>
 [Text Normalization Challenge](https://www.kaggle.com/c/text-normalization-challenge-english-language/data) <br>
+This challenge solves [text normalization](https://en.wikipedia.org/wiki/Text_normalization) problem in Text-to-Speech system <br>
 Download the datasets: <br>
 [en_train.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_train.csv), <br>
 [en_test_2.csv](https://www.kaggle.com/c/text-normalization-challenge-english-language/download/en_test_2.csv), <br>
